@@ -109,10 +109,7 @@ The system helps business owners make smarter decisions, automate repetitive tas
 
 # 🚀 Live Demo
 
-Google AI Studio App
-
-https://ai.studio/apps/7e037f41-2b46-477d-b3f1-046f1e0583b7
-
+https://ais-pre-xehalyi6chiix6htdbozo4-507166191654.asia-southeast1.run.app
 ---
 
 # 💡 Problem Statement
