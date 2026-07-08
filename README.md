@@ -1,4 +1,4 @@
-# 🚀 NEXUS AI OS
+# 🚀 NovaOS
 
 > An AI-powered Business Operating System that helps retailers, kirana stores, pharmacies, and small businesses automate inventory, billing, payments, customer support, and business intelligence.
 
@@ -11,9 +11,9 @@
 
 ## 🌟 Overview
 
-NEXUS AI OS is an intelligent AI employee designed for small and medium-sized businesses.
+NovaOS is an intelligent AI employee designed for small and medium-sized businesses.
 
-Instead of using multiple software solutions for billing, inventory, analytics, customer support, and payments, NEXUS combines everything into one AI-powered platform.
+Instead of using multiple software solutions for billing, inventory, analytics, customer support, and payments, NovaOS combines everything into one AI-powered platform.
 
 The system helps business owners make smarter decisions, automate repetitive tasks, and interact with their business using natural language and voice.
 
@@ -90,7 +90,7 @@ The system helps business owners make smarter decisions, automate repetitive tas
 ## AI
 
 - Google Gemini
-- Google AI Studio
+
 
 ## Payments
 
@@ -124,13 +124,13 @@ Small businesses often use multiple disconnected tools to manage:
 
 This leads to inefficiency, manual work, and poor decision-making.
 
-NEXUS AI solves this by providing one intelligent platform powered by AI.
+NovaOS solves this by providing one intelligent platform powered by AI.
 
 ---
 
 # 🎯 Solution
 
-NEXUS AI acts as a virtual employee that can:
+NovaOS acts as a virtual employee that can:
 
 - Answer business questions
 - Generate invoices
@@ -180,6 +180,8 @@ nexus-ai-os
 # 👨‍💻 Built By
 
 **Kundan Ghate**
+**Mayur Khatekhaye**
+**Shreya Giripunjhe**
 
 AI & Software Engineering Student
 
